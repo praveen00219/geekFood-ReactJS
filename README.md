@@ -10,7 +10,7 @@ The goal of this project was to design and develop the main home page for Geek F
 
 You can view the live demo of the project here:
 
-[Geek Food Home Page]()
+[Geek Food App](https://praveen-geekfood-app.netlify.app/)
 
 ## Features
 
@@ -33,5 +33,5 @@ You can view the live demo of the project here:
 
 ## ScreenShot
 
-**Home Page** [!homepage](./public/assets/screenshots/homePage.jpg)
-**Quote Page** [!quotePage](./public/assets/screenshots/quotePage.jpg)
+**Home Page** ![HomePage](./public/assets/screenshots/homePage.jpg)
+**Quote Page** ![QuotePage](./public/assets/screenshots/quotePage.jpg)
